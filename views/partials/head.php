@@ -7,7 +7,7 @@
         <meta name="description" content="" />
         <meta name="author" content="" />
         <title>Dashboard - SB Admin</title>
-        <link href="css/style.min.css" rel="stylesheet" />
+        <link href="../../api/css/style.min.css" rel="stylesheet" />
         <link href="css/styles.css" rel="stylesheet" />
         <script src="js/all.js" crossorigin="anonymous"></script>
     </head>
