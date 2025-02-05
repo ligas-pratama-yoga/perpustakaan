@@ -1,0 +1,15 @@
+{
+    "name": "ligas/php-mvc",
+    "autoload": {
+        "psr-4": {
+            "Core\\": "core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ligas-pratama-yoga",
+            "email": "ligas7231@gmail.com"
+        }
+    ],
+    "require": {}
+}
