@@ -11,23 +11,23 @@
                                 Home
                             </a>
                             <a class="nav-link" href="/about">
-                                <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
+                                <div class="sb-nav-link-icon"><i class="fas fa-info"></i></div>
                                 Tentang Kami
                             </a>
                             <a class="nav-link" href="/contact">
-                                <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
+                                <div class="sb-nav-link-icon"><i class="fas fa-address-book"></i></div>
                                 Kontak
                             </a>
                             <a class="nav-link" href="/buku">
-                                <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
+                                <div class="sb-nav-link-icon"><i class="fas fa-book"></i></div>
                                 Buku
                             </a>
                             <a class="nav-link" href="/users">
-                                <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
+                                <div class="sb-nav-link-icon"><i class="fas fa-users"></i></div>
                                 Daftar Anggota
                             </a>
                             <a class="nav-link" href="/peminjaman">
-                                <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
+                                <div class="sb-nav-link-icon"><i class="fas fa-tag"></i></div>
                                 Daftar Peminjaman
                             </a>
                         </div>
