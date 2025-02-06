@@ -23,8 +23,9 @@ class DB
 
     public function __construct()
     {
+        // postgresql://ligas:npg_eEzi9vZg7lMt@ep-twilight-hat-a1eeu4gn-pooler.ap-southeast-1.aws.neon.tech/perpustakaan?sslmode=require
         $this->connection = new PDO(
-            "pgsql:host=127.0.0.1;user=postgres;password=root;dbname=perpustakaan",
+            "pgsql:host=ep-twilight-hat-a1eeu4gn-pooler.ap-southeast-1.aws.neon.tech;user=ligas;password=npg_eEzi9vZg7lMt;dbname=perpustakaan",
             options: [PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC]
         );
     }
