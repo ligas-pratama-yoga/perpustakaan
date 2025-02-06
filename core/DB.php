@@ -24,7 +24,7 @@ class DB
     public function __construct()
     {
         $this->connection = new PDO(
-            "pgsql:host=127.0.0.1;user=postgres;password=root;dbname=perpustakaan",
+            "mysql:host=127.0.0.1;user=postgres;password=root;dbname=perpustakaan",
             options: [PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC]
         );
     }
